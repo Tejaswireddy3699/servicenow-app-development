@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="log incident" max_length="40" name="x_366646_sriindu1_log_incident" sizeclass="1" type="collection">
+        <element choice="1" label="city" max_length="40" name="city" type="choice">
+            <choice/>
+        </element>
+        <element label="sri5" max_length="100" name="sri5" type="string"/>
+    </element>
+</database>

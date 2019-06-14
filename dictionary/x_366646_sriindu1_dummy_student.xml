@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="dummy_student" max_length="40" name="x_366646_sriindu1_dummy_student" type="collection">
+        <element label="percentage of disabled" max_length="40" name="percentage_of_disabled" type="string"/>
+        <element label="physically disabled" max_length="40" name="physically_disabled" type="boolean"/>
+        <element label="sname" max_length="100" name="sname" type="string"/>
+    </element>
+</database>
