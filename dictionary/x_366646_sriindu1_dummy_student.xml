@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="dummy_student" max_length="40" name="x_366646_sriindu1_dummy_student" type="collection">
+        <element label="checked" max_length="40" name="checked" type="boolean"/>
+        <element choice="1" display="true" label="city" max_length="40" name="city" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hyd" sequence="0" value="hyd"/>
+                <element inactive_on_update="false" label="vij" sequence="1" value="vij"/>
+                <element inactive_on_update="false" label="mumbai" sequence="2" value="mumbai"/>
+            </choice>
+        </element>
+        <element label="lastname" max_length="30" name="lastname" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
         <element label="percentage of disabled" max_length="40" name="percentage_of_disabled" type="string"/>
         <element label="physically disabled" max_length="40" name="physically_disabled" type="boolean"/>
         <element label="sname" max_length="100" name="sname" type="string"/>

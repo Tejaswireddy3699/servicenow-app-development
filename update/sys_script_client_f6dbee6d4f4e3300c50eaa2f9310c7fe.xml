@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>sys_class_name</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>glideajax</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   var ga = new GlideAjax('script');
+	//alert(ga);
+ga.addParam('sysparm_name', 'helloworld');
+ga.addParam('sysparm_user_name', "Bob");
+ga.getXML(HelloWorldParse);
+ 
+function HelloWorldParse(response) {
+  var answer = response.responseXML.documentElement.getAttribute("answer");
+  alert(answer); }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 05:16:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6dbee6d4f4e3300c50eaa2f9310c7fe</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glideajax</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sriindu1" source="x_366646_sriindu1">296710c14f063300c50eaa2f9310c7f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu1">296710c14f063300c50eaa2f9310c7f1</sys_scope>
+        <sys_update_name>sys_script_client_f6dbee6d4f4e3300c50eaa2f9310c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 05:47:43</sys_updated_on>
+        <table>x_366646_sriindu1_log_incident_backup</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

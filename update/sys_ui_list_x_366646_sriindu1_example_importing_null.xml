@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_366646_sriindu1_example_importing" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>d548f1124fc23300c50eaa2f9310c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>5d48f1124fc23300c50eaa2f9310c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>dd48f1124fc23300c50eaa2f9310c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>5148f1124fc23300c50eaa2f9310c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>d148f1124fc23300c50eaa2f9310c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_366646_sriindu1_example_importing" element="NULL" name="x_366646_sriindu1_example_importing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d948f1124fc23300c50eaa2f9310c7ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_id>5548f1124fc23300c50eaa2f9310c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_366646_sriindu1_example_importing</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:24:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d948f1124fc23300c50eaa2f9310c7ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366646_sriindu1_example_importing</sys_name>
+            <sys_package display_value="sriindu1" source="x_366646_sriindu1">296710c14f063300c50eaa2f9310c7f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriindu1">296710c14f063300c50eaa2f9310c7f1</sys_scope>
+            <sys_update_name>sys_ui_list_x_366646_sriindu1_example_importing_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:24:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
